@@ -6,7 +6,7 @@
 
 ## 项目介绍
 
-本项目旨在收集 GitHub 上海交通大学计算机系本科（编程）作业。
+本项目旨在收集 GitHub 河南大学计算机系本科（编程）作业。
 
 如果您希望将自己的项目添加到列表中，请点击 [README.md 右上角的编辑按钮](https://github.com/SJTU-CSE/awesome-cs/edit/master/README.md) 自动创建分支并编辑，而后通过 [Pull Request](https://github.com/SJTU-CSE/awesome-cs/pulls) 提交。
 
