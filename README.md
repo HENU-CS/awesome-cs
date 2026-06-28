@@ -50,4 +50,22 @@
 - [**HENU---Cloud-Application-Development**](https://github.com/FangSen9000/HENU-OS): 河南大学 云应用开发 大作业Cloud Application Development Homework.
 - [**HENU-Big-Data**](https://github.com/FangSen9000/HENU-Big-Data): HENU Big Data homework 河南大学 大数据作业.
 - [**Enterprise-Network-Management**](https://github.com/FangSen9000/Enterprise-Network-Management): 河南大学 企业网络管理课程作业 Enterprise Network Management Homework.
+* [@Sonder9999, 2022 Fall](https://github.com/Henu-Kaguya/Henu-Kaguya) 河南大学计算机科学与技术资料合集 (HENU)
+* [@Sonder9999, 2023 Fall](https://github.com/Henu-Kaguya/C-Primer-Plus-Programming) C Primer Plus程序设计 (C Primer Plus Programming)
+* [@Sonder9999, 2024 Fall](https://github.com/Henu-Kaguya/CSharp-Programing) C#程序设计 (CSharp Programming)
+* [@Sonder9999, 2024 Fall](https://github.com/Henu-Kaguya/CSharp-Programing-Demo) C#程序设计Demo (CSharp Programming Demo)
+* [@Sonder9999, 2025 Spring](https://github.com/Henu-Kaguya/CSharp-Network-Application-Programming) C#网络应用编程 (CSharp Network Application Programming)
+* [@Sonder9999, 2025 Spring](https://github.com/Henu-Kaguya/CSharp-Network-Demo) C#网络应用编程Demo (CSharp Network Demo)
+* [@Sonder9999, 2025 Spring](https://github.com/Henu-Kaguya/Digital-Image-Processing) 数字图像处理 (Digital Image Processing)
+* [@Sonder9999, 2025 Spring](https://github.com/Henu-Kaguya/Operational-Research) 运筹学 (Operational Research)
+* [@Sonder9999, 2025 Spring](https://github.com/Henu-Kaguya/Principles-of-Computer-Organization) 计算机组织原理 (Principles of Computer Organization)
+* [@Sonder9999, 2025 Fall](https://github.com/Henu-Kaguya/Computer-Architecture) 计算机体系结构 (Computer Architecture)
+* [@Sonder9999, 2025 Fall](https://github.com/Henu-Kaguya/Computer-Network) 计算机网络 (Computer Network)
+* [@Sonder9999, 2025 Fall](https://github.com/Henu-Kaguya/Database-Principles) 数据库原理 (Database Principles)
+* [@Sonder9999, 2025 Fall](https://github.com/Henu-Kaguya/Machine-Learning) 机器学习 (Machine Learning)
+* [@Sonder9999, 2025 Fall](https://github.com/Henu-Kaguya/Operating-System) 操作系统 (Operating System)
+* [@Sonder9999, 2025 Fall](https://github.com/Henu-Kaguya/Software-Engineering) 软件工程 (Software Engineering)
+* [@Sonder9999, 2026 Spring](https://github.com/Henu-Kaguya/Compiler-Principles) 编译原理 (Compiler Principles)
+* [@Sonder9999, 2026 Spring](https://github.com/Henu-Kaguya/Computer-Graphics) 计算机图形学 (Computer Graphics)
+
 
